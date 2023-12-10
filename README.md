@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/23367640/217870848-93691f9d-1b83-47ef-9564-2c5caa4cd549.png)
 
-# СВЕЩЕНИЯТ СМЕТАЧ - SACRED COMPUTER
+# СВЕЩЕНИЯТ СМЕТАЧ - THE SACRED COMPUTER
 
 Sacred Computer is one of the world's first research institutes in Artificial General Intelligence (AGI), publishing since 2001 and creator of the world's first University courses in Artificial General Intelligence offered at the University of Plovdiv "Paisii Hilendarski" in 2010 and 2011.
 
