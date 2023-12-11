@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23367640/217870848-93691f9d-1b83-47ef-9564-2c5caa4cd549.png)
+![image](https://user-images.githubusercontent.com/23367640/217870848-93691f9d-1b83-47ef-9564-2c5caa4cd549.png) <img src="https://github.com/Twenkid/Sacred-Computer/blob/main/Logos-English/11-12-2023/OIG.XKMg1.Rd.jpg" width=28%>
 
 # СВЕЩЕНИЯТ СМЕТАЧ - THE SACRED COMPUTER
 
