@@ -2,7 +2,7 @@
 
 # СВЕЩЕНИЯТ СМЕТАЧ - THE SACRED COMPUTER
 
-Sacred Computer is one of the world's first research institutes in Artificial General Intelligence (AGI), publishing since 2001 and creator of the world's first University courses in Artificial General Intelligence offered at the University of Plovdiv "Paisii Hilendarski" in 2010 and 2011.
+Sacred Computer is one of the world's first research institutes in Artificial General Intelligence (AGI), publishing since 2001 and creator of the world's first University courses in Artificial General Intelligence offered at the University of Plovdiv "Paisii Hilendarski" in 2010 and 2011. It was created as a Bulgarian e-zine in 2000 (initially first issue "ЕИМ & Game World", second one: "ЕИМ СВЯТ", then "Свещеният сметач ). http://eim.twenkid.com 
 
 See one on-going practical project, looking for partners: "Jack of All Trades" (a.k.a. Vsy, "Всичко", "Вси", "Специалист по всичко") with info about "Sacred Computer":
 https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine
